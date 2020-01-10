@@ -1,15 +1,15 @@
 # ----
 # Site
 
-title: 7 Day Coding 
-url: "http://7-day-coding.instituteofcode.com"
+title: 7 Day Challenge
+url: "http://7-day-instagram.instituteofcode.com"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Pre-Coursework for Institute of Code's 10 Day Web Development Intensive 
+description: 
 author:
   name:
   email:
