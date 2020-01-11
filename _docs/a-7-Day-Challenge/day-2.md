@@ -1,5 +1,5 @@
 ---
-title: Day 2
+title: Day 2 - Building a brand
 category: 7 Day Challenge
 order: 2
 ---
