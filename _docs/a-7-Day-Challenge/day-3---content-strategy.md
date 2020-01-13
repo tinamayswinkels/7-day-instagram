@@ -48,9 +48,11 @@ This is the fun part, for every point listed above, try to brainstorm 3 - 5 piec
 * show photos of people actually enjoying the food in the restaurant, not just food photos&nbsp;
 * show behind the scenes videos in your instagram stories of dished being made showing the level of care and detail taken&nbsp;
 
-\-------
+\-——
 
 Ok, here it is\! After reading all of your questions and comments, I've recorded a custom video tutorial just for you guys. I want to give you time to absorb this and go back over today's activity so the next video will come tomorrow and we'll extend the challenge from 7 days to 8. Enjoy\!&nbsp;
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvNVpHMWp0TWxjQTQiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="100%" height="415" src="https://www.youtube.com/embed/5ZG1jtMlcA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 &nbsp;
 
