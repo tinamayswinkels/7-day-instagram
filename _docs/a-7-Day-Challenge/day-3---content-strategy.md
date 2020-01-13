@@ -8,7 +8,7 @@ Hopefully by now you have a better understanding of your big picture goals, your
 
 This lesson, we're going to take those broad strokes and build them into a content strategy.&nbsp;
 
-We're going to flip this lesson on it's head -- instead of watching the tutorial first and then working through the activity, I want you to work through this activity first and then tomorrow I'll record a dedicated tutorial using some of your businesses as case studies\!&nbsp;
+We're going to flip this lesson on it's head – instead of watching the tutorial first and then working through the activity, I want you to work through this activity first and then tomorrow I'll record a dedicated tutorial using some of your businesses as case studies\!&nbsp;
 
 ## Day 3 Activity&nbsp;
 
@@ -47,3 +47,13 @@ This is the fun part, for every point listed above, try to brainstorm 3 - 5 piec
 * share testimonials from yelp or trip advisor as a caption with a photo of the relevant dish or venue
 * show photos of people actually enjoying the food in the restaurant, not just food photos&nbsp;
 * show behind the scenes videos in your instagram stories of dished being made showing the level of care and detail taken&nbsp;
+
+\-------
+
+Ok, here it is\! After reading all of your questions and comments, I've recorded a custom video tutorial just for you guys. I want to give you time to absorb this and go back over today's activity so the next video will come tomorrow and we'll extend the challenge from 7 days to 8. Enjoy\!&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
