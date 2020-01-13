@@ -26,7 +26,9 @@ We're going to flip this lesson on it's head – instead of watching the tutoria
 
 **Stage 3 - Content Mapping&nbsp;**
 
-This is the fun part, for every point listed above, try to brainstorm 3 - 5 pieces of content to target each point above. Get inspired from what you see in stage one, but don't be afraid to get creative\!&nbsp;
+This is the fun part, for every point listed above, try to brainstorm 3 - 5 pieces of content to target each point above. Get inspired from what you see in stage one, but don't be afraid to get creative\!&nbsp;<br><br>**Start with Why, by Simon Sinek (Bonus)**
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvSVBZZUNsdFhweHciIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="100%" height="415" src="https://www.youtube.com/embed/IPYeCltXpxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ## Example - Cafe in Canggu&nbsp;
 
