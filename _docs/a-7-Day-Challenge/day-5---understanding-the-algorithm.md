@@ -10,7 +10,7 @@ Today we're looking at the instagram algorithm that controls who actually sees y
 
 ## Activity&nbsp;
 
-For each of these points, brainstorm 1-3 tactic's that you can use in your own feed...
+For each of these points, brainstorm 1-3 tactics that you can use in your own feed...
 
 1. Engagement -&nbsp; how popular the post is
 2. Relevancy -&nbsp; the genres of people you have interacted with
