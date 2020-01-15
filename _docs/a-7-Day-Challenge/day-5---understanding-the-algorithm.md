@@ -6,7 +6,7 @@ order: 4
 
 Today we're looking at the instagram algorithm that controls who actually sees your content in their feed. Understanding this is critical to growing your instagram account, but it's nothing to be afraid of. &nbsp;Follow along with the video and then write down below how you'll implement what you've learnt\!&nbsp;
 
-<div class="cms-embed" data-cms-embed=""></div>
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvbVZKMklKT1ZEYXciIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4K"><iframe width="100%" height="415" src="https://www.youtube.com/embed/mVJ2IJOVDaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ## Activity&nbsp;
 
