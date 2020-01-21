@@ -5,7 +5,7 @@ order: 7
 published: true
 ---
 
-Let's get strategic with out hashtag use and find relevant hashtags that will help us grow our brand and reach a new audience of likeminded people.
+The missing piece in the puzzle to grow your account ...&nbsp;
 
 {% include youtube.html id="A49uylBLH4Y" %}
 
