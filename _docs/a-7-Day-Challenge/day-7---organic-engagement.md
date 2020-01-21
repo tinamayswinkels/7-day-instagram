@@ -3,6 +3,7 @@ title: Day 7 - Organic Engagement
 category: 7 Day Challenge
 order: 7
 published: true
+permalink: /day-7/
 ---
 
 The missing piece in the puzzle to grow your account ...&nbsp;
