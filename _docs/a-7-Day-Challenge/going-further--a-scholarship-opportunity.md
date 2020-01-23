@@ -2,8 +2,8 @@
 title: Going Further (+ a scholarship opportunity)
 category: 7 Day Challenge
 order: 7
-published: true
-permalink: /day-7/
+published: false
+permalink: /going-further
 ---
 
 Want to continue your coding journey? We've had lots of questions about where to go from here, and wanted to lay out all of your options.&nbsp;
