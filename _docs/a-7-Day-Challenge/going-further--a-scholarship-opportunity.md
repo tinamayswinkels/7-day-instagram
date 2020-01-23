@@ -2,8 +2,8 @@
 title: Going Further (+ a scholarship opportunity)
 category: 7 Day Challenge
 order: 7
-published: false
-permalink: /going-further
+published: true
+permalink: /going-further/
 ---
 
 Want to continue your social media journey? We've had lots of questions about where to go from here, and wanted to lay out all of your options.&nbsp;
@@ -48,7 +48,7 @@ The main difference though between an online course and in-person immersive is i
 
 ![](/uploads/kuppacups.png){: width="605" height="1066"}
 
-*An example student project -- strategy + marketing plan + photography + photo editing + social media grid mockup etc.&nbsp;*
+*An example student project – strategy + marketing plan + photography + photo editing + social media grid mockup etc.&nbsp;*
 
 We also cover how to take these skills and build them into a business, including how to find build an effective portfolio, find and pitch to clients, scope and price projects etc. We give our students everything they need to hit the ground running and start working on real client projects – and it's not uncommon for students to land their first paying client less than one month after the bootcamp.&nbsp;
 
