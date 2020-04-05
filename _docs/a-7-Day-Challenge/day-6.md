@@ -2,7 +2,7 @@
 title: Day 6 - Hashtag strategy
 category: 7 Day Challenge
 order: 6
-published: true
+published: false
 ---
 
 Let's get strategic with out hashtag use and find relevant hashtags that will help us grow our brand and reach a new audience of likeminded people.

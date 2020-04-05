@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: 7 Day Challenge
+title: 7 Day Instagram Challenge
 url: "http://7-day-instagram.instituteofcode.com"
 baseurl:
 google_analytics_key:
@@ -9,15 +9,15 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: 
+description:
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: IOC Pre-Coursework
+  name: 7 Day Instagram Challenge
   links:
-    - 
+    -
 
 # -----
 # Build
@@ -62,23 +62,23 @@ defaults:
             code: true
             styles: /_sass/_content-typography.scss
             italic: true
-            removeformat: true 
+            removeformat: true
             link: true
             undo: true
             redo: true
             underline: true
             strike: true
-            subscript: true 
+            subscript: true
             superscript: true
-            blockquote: true	 
-            horizontalrule: true	 
-            numberedlist: true	 
-            bulletedlist: true	 
+            blockquote: true
+            horizontalrule: true
+            numberedlist: true
+            bulletedlist: true
             outdent: true
             indent: true
-            image: true	 
-            embed: true	 
-            table: true 
+            image: true
+            embed: true
+            table: true
   -
     scope:
       path: ""

@@ -11,12 +11,12 @@ body {
 	font-family: "Nunito Sans", serif;
 	font-size: 1.8em;
 	line-height: 1.75em;
-	color: rgb(60,60,65);
+	color: rgb(65,60,60);
 	font-weight: 400;
-	-webkit-font-feature-settings: 'kern' 1;
-	-moz-font-feature-settings: 'kern' 1;
-	-o-font-feature-settings: 'kern' 1;
-	text-rendering: geometricPrecision;
+	font-variant-numeric: lining-nums;
+	-moz-font-feature-settings: "lnum";
+	-webkit-font-feature-settings: "lnum";
+	font-feature-settings: "lnum";
 }
 
 h1,
@@ -30,11 +30,7 @@ label,
 select,
 textarea,
 table {
-	-webkit-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-	-moz-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-	-o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-	font-family: "Nunito Sans", sans-serif;
-	text-rendering: geometricPrecision;
+	font-family: 'Macho', 'Nunito Sans', sans-serif;
 }
 
 h1,
@@ -43,7 +39,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #2E2E2E;
+	color: #41414d;
 	line-height: 1.15em;
 	margin: 0 0 0.4em 0;
 	font-weight: 600;
@@ -90,11 +86,7 @@ ul,
 ol,
 dl,
 figure {
-	-webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-	-moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-	-o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-	margin: 0 0 1.75em 0;
-	text-rendering: geometricPrecision;
+	margin: 0 0 1em 0;
 }
 
 ol,
@@ -161,6 +153,7 @@ kbd {
 	border-radius: 4px;
 	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 0 0 #fff inset;
 }
+
 
 @media only screen and (max-width: 900px) {
 	blockquote {

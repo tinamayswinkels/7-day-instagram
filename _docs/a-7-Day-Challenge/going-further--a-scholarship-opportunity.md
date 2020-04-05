@@ -2,7 +2,7 @@
 title: Going Further (+ a scholarship opportunity)
 category: 7 Day Challenge
 order: 7
-published: true
+published: false
 permalink: /going-further/
 ---
 

@@ -3,18 +3,18 @@ layout: null
 sitemap: false
 ---
 
-$body-background-color: #2B2E31;
+$body-background-color: #f8f6f4;
 
 $content-max-width: 800px;
-$content-color: #222;
-$content-background-color: #fff;
+$content-color: #41414d;
+$content-background-color: #fff ;
 
-$brand-colour: #3583d6;
+$brand-colour: #41414d;
 $brand-colour-light: mix($brand-colour, $content-background-color, 10%);
 
 $nav-header-background-color: $brand-colour;
 $nav-header-height: 60px;
-$nav-background-color: #f5f5f5;
+$nav-background-color: #f8f6f4;
 $nav-width: 300px;
 
 $space: 20px;
@@ -49,5 +49,5 @@ padding: 5px;
 
 border-radius: 5px;
 
-color: #000;
+color: #41414d;
 }

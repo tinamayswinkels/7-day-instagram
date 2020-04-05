@@ -2,6 +2,7 @@
 title: Day 5 - Understanding the algorithm
 category: 7 Day Challenge
 order: 4
+published: false
 ---
 
 Today we're looking at the instagram algorithm that controls who actually sees your content in their feed. Understanding this is critical to growing your instagram account, but it's nothing to be afraid of. &nbsp;Follow along with the video and then write down below how you'll implement what you've learnt\!&nbsp;

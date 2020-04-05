@@ -2,6 +2,7 @@
 title: Day 2 - Building a brand
 category: 7 Day Challenge
 order: 2
+published: false
 ---
 
 After getting a big picture view yesterday, today we're going to dig deeper into our our brand personality and values, our target audience and value proposition, and how we use better connect with our ideal audience.&nbsp;
