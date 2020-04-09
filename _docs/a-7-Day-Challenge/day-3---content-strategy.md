@@ -2,7 +2,8 @@
 title: Day 3 - Content Strategy
 category: 7 Day Challenge
 order: 2
-published: false
+published: true
+permalink: /day-3
 ---
 
 Hopefully by now you have a better understanding of your big picture goals, your brand personality and values and what you want to communicate to your target audience.&nbsp;
