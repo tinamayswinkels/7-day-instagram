@@ -9,7 +9,9 @@ Hopefully by now you have a better understanding of your big picture goals, your
 
 This lesson, we're going to take those broad strokes and build them into a content strategy.&nbsp;
 
-We're going to flip this lesson on it's head – instead of watching the tutorial first and then working through the activity, I want you to work through this activity first and then tomorrow I'll record a dedicated tutorial using some of your businesses as case studies\!&nbsp;
+In this tutorial I've used real examples of people who took the challenge earlier this year.&nbsp;
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvNVpHMWp0TWxjQTQiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="100%" height="415" src="https://www.youtube.com/embed/5ZG1jtMlcA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ## Day 3 Activity&nbsp;
 
@@ -53,12 +55,9 @@ This is the fun part, for every point listed above, try to brainstorm 3 - 5 piec
 
 \-——
 
-Ok, here it is\! After reading all of your questions and comments, I've recorded a custom video tutorial just for you guys. I want to give you time to absorb this and go back over today's activity so the next video will come tomorrow and we'll extend the challenge from 7 days to 8. Enjoy\!&nbsp;
+Don't forget, for your change to win a one-on-one strategy call with Tina make sure you:
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvNVpHMWp0TWxjQTQiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="100%" height="415" src="https://www.youtube.com/embed/5ZG1jtMlcA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+* are following [@hellotinamay](http://www.instagram.com/hellotinamay){: target="_blank"} and [@instituteofcode](http://www.instagram.com/hellotinamay){: target="_blank"}&nbsp;
+* share posts or stories on your instagram throughout the challenge tagging both accounts
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+Today, maybe share your biggest aha moment, why this lesson was valuable to you, or a photo of the notes you have taken.&nbsp;
