@@ -2,7 +2,8 @@
 title: Day 4 - Aesthetic Grid
 category: 7 Day Challenge
 order: 4
-published: false
+published: true
+permalink: /day-4
 ---
 
 There is a reason that we tackle aesthetics after strategy – it's easy to get so caught up in having a 'pretty' instagram feed that we forgot about what we're trying to achieve.&nbsp;
