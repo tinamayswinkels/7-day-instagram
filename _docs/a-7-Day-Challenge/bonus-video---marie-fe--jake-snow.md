@@ -2,6 +2,8 @@
 title: Bonus Video - Marie Fe & Jake Snow
 category: 7 Day Challenge
 order: 8
+published: true
+permalink: /day-8
 ---
 
 ## Bonus Video - Interview with Marie Fe & Jake Snow&nbsp;
