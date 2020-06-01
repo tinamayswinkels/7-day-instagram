@@ -1,5 +1,6 @@
 ---
-title: Welcome to IOC
+title: Welcome to our 7 Day Instagram Challenge
+description: Institute of Code's free 7 day instagram mini-course
 ---
 
 *A message from our founders…&nbsp;*
