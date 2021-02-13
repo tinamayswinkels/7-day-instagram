@@ -1,7 +1,7 @@
-/day-1/ /day-1
-/day-2/ /day-2
-/day-3/ /day-3
-/day-4/ /day-4
-/day-5/ /day-5
-/day-6/ /day-6
-/day-7/ /day-7
+/day-1/ https://www.instituteofcode.com/courses/7-day-instagram/
+/day-2/ https://www.instituteofcode.com/courses/7-day-instagram/
+/day-3/ https://www.instituteofcode.com/courses/7-day-instagram/
+/day-4/ https://www.instituteofcode.com/courses/7-day-instagram/
+/day-5/ https://www.instituteofcode.com/courses/7-day-instagram/
+/day-6/ https://www.instituteofcode.com/courses/7-day-instagram/
+/day-7/ https://www.instituteofcode.com/courses/7-day-instagram/
