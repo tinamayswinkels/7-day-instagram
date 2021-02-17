@@ -1,7 +1,8 @@
-/day-1/ https://www.instituteofcode.com/courses/7-day-instagram/
-/day-2/ https://www.instituteofcode.com/courses/7-day-instagram/
-/day-3/ https://www.instituteofcode.com/courses/7-day-instagram/
-/day-4/ https://www.instituteofcode.com/courses/7-day-instagram/
-/day-5/ https://www.instituteofcode.com/courses/7-day-instagram/
-/day-6/ https://www.instituteofcode.com/courses/7-day-instagram/
-/day-7/ https://www.instituteofcode.com/courses/7-day-instagram/
+/day-1 https://www.instituteofcode.com/courses/7-day-instagram/
+/day-2 https://www.instituteofcode.com/courses/7-day-instagram/
+/day-3 https://www.instituteofcode.com/courses/7-day-instagram/
+/day-4 https://www.instituteofcode.com/courses/7-day-instagram/
+/day-5 https://www.instituteofcode.com/courses/7-day-instagram/
+/day-6 https://www.instituteofcode.com/courses/7-day-instagram/
+/day-7 https://www.instituteofcode.com/courses/7-day-instagram/
+* https://www.instituteofcode.com/courses/7-day-instagram/
